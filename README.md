@@ -1,0 +1,2 @@
+# mytemplate
+lab progra2
