@@ -1,0 +1,97 @@
+hr {
+     border-style: dotted none none;
+     width: 4%;
+     border-width: 5px;
+     color: gray;
+     clear: left;
+     margin: 100px auto 100px ;
+ }
+
+ .h1{
+     font-family: 'times new roman', cursive;
+     font-size: 500%;
+     color: #66BFBF;
+     
+ }
+ .h2 {
+     font-family: "Montserrat";
+     font-size: 2.5rem;
+     padding-bottom: 10px;
+     color: #66BFBF;
+ }
+ .h2-2{
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    color: black;
+ }
+
+ .top-container {
+     padding-top: 100px;
+     background-color: #e3fdfd;
+    }
+ .middle-container {
+     padding: 100px;
+     background-color: #cbf1f5;
+ }
+
+ .middle-container2 {
+    padding: 100px;
+    background-color: #a6e3e9;
+}
+ 
+ body{
+     margin: 0;
+     text-align: center;
+     color: black;
+     font-family: 'Montserrat';
+ }
+ .logo{
+    width:200px;
+    height:200px;
+    border-radius: 150px;
+ }
+ .foto {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    border:10px solid #666;
+}
+.foto_habilidades{
+    width: 300px;
+    height: 200px;
+    border: 10px solid;
+}
+
+.p1{
+    font-size: 30px;
+}
+.btn {
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+   .contact-me{
+     margin-bottom: 50px;
+   }
+   .bottom-container{
+       background-color: #66BFBF;
+       padding: 50px 0 20px;
+   }
+   a{
+       color: white;
+       font-family: 'Monserrat';
+       margin: 10px 20px;
+       text-decoration: none ;
+   }
+ 
+   .copyright{
+     padding: 20px 0px ;
+     font-family: 'Monserrat';
+     color: #EAF6F6;
+     font-size: 0.75rem;
+   }
